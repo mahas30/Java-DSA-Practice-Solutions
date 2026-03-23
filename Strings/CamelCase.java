@@ -1,5 +1,5 @@
 /*
-Problem: CamelCase (HackerRank)
+Problem: CamelCase
 Platform: HackerRank
 
 Description:
